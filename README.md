@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @Carlos-Aerospacefan
+- 👀 I’m interested in rockets and anything that can fly
+- 🌱 I’m currently learning python
+- 📫 How to reach me, My twitter is "carlossacerio"
